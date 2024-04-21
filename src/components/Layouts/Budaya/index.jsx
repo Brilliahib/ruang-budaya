@@ -45,33 +45,12 @@ const BudayaSection = () => {
                   />
                   <div className="absolute inset-0 bg-black bg-opacity-40 flex flex-col items-start justify-end p-6 gap-2">
                     <h3 className="text-white text-lg font-bold">
-                      Candi Prambanan
+                      Peninggalan Sejarah
                     </h3>
                     <div className="location-text flex gap-x-2 items-center">
                       <div>
-                        <svg
-                          xmlns="http://www.w3.org/2000/svg"
-                          fill="none"
-                          viewBox="0 0 24 24"
-                          stroke-width="1.5"
-                          stroke="#fff"
-                          class="w-5 h-5"
-                        >
-                          <path
-                            stroke-linecap="round"
-                            stroke-linejoin="round"
-                            d="M15 10.5a3 3 0 1 1-6 0 3 3 0 0 1 6 0Z"
-                          />
-                          <path
-                            stroke-linecap="round"
-                            stroke-linejoin="round"
-                            d="M19.5 10.5c0 7.142-7.5 11.25-7.5 11.25S4.5 17.642 4.5 10.5a7.5 7.5 0 1 1 15 0Z"
-                          />
-                        </svg>
-                      </div>
-                      <div>
                         <p className="text-white text-body line-clamp-2">
-                          D. I. Yogyakarta
+                          Eksplor peninggalan sejarah di Indonesia.
                         </p>
                       </div>
                     </div>
@@ -96,32 +75,13 @@ const BudayaSection = () => {
                     }}
                   />
                   <div className="absolute inset-0 bg-black bg-opacity-40 flex flex-col items-start justify-end p-6 gap-2">
-                    <h3 className="text-white text-lg font-bold">Tari Kecak</h3>
+                    <h3 className="text-white text-lg font-bold">
+                      Tarian Daerah
+                    </h3>
                     <div className="location-text flex gap-x-2 items-center">
                       <div>
-                        <svg
-                          xmlns="http://www.w3.org/2000/svg"
-                          fill="none"
-                          viewBox="0 0 24 24"
-                          stroke-width="1.5"
-                          stroke="#fff"
-                          class="w-5 h-5"
-                        >
-                          <path
-                            stroke-linecap="round"
-                            stroke-linejoin="round"
-                            d="M15 10.5a3 3 0 1 1-6 0 3 3 0 0 1 6 0Z"
-                          />
-                          <path
-                            stroke-linecap="round"
-                            stroke-linejoin="round"
-                            d="M19.5 10.5c0 7.142-7.5 11.25-7.5 11.25S4.5 17.642 4.5 10.5a7.5 7.5 0 1 1 15 0Z"
-                          />
-                        </svg>
-                      </div>
-                      <div>
                         <p className="text-white text-body line-clamp-2">
-                          Bali, Indonesia
+                          Tarian daerah dari penjuru yang ada di Indonesia.
                         </p>
                       </div>
                     </div>
@@ -147,33 +107,12 @@ const BudayaSection = () => {
                   />
                   <div className="absolute inset-0 bg-black bg-opacity-40 flex flex-col items-start justify-end p-6 gap-2">
                     <h3 className="text-white text-lg font-bold">
-                      Hidden Gems Bali
+                      Tempat Wisata
                     </h3>
                     <div className="location-text flex gap-x-2 items-center">
                       <div>
-                        <svg
-                          xmlns="http://www.w3.org/2000/svg"
-                          fill="none"
-                          viewBox="0 0 24 24"
-                          stroke-width="1.5"
-                          stroke="#fff"
-                          class="w-5 h-5"
-                        >
-                          <path
-                            stroke-linecap="round"
-                            stroke-linejoin="round"
-                            d="M15 10.5a3 3 0 1 1-6 0 3 3 0 0 1 6 0Z"
-                          />
-                          <path
-                            stroke-linecap="round"
-                            stroke-linejoin="round"
-                            d="M19.5 10.5c0 7.142-7.5 11.25-7.5 11.25S4.5 17.642 4.5 10.5a7.5 7.5 0 1 1 15 0Z"
-                          />
-                        </svg>
-                      </div>
-                      <div>
                         <p className="text-white text-body line-clamp-2">
-                          Bali, Indonesia
+                          Rekomendasi tempat wisata yang ada di Indonesia.
                         </p>
                       </div>
                     </div>
@@ -198,32 +137,13 @@ const BudayaSection = () => {
                     }}
                   />
                   <div className="absolute inset-0 bg-black bg-opacity-40 flex flex-col items-start justify-end p-6 gap-2">
-                    <h3 className="text-white text-lg font-bold">Malioboro</h3>
+                    <h3 className="text-white text-lg font-bold">
+                      Makanan Daerah
+                    </h3>
                     <div className="location-text flex gap-x-2 items-center">
                       <div>
-                        <svg
-                          xmlns="http://www.w3.org/2000/svg"
-                          fill="none"
-                          viewBox="0 0 24 24"
-                          stroke-width="1.5"
-                          stroke="#fff"
-                          class="w-5 h-5"
-                        >
-                          <path
-                            stroke-linecap="round"
-                            stroke-linejoin="round"
-                            d="M15 10.5a3 3 0 1 1-6 0 3 3 0 0 1 6 0Z"
-                          />
-                          <path
-                            stroke-linecap="round"
-                            stroke-linejoin="round"
-                            d="M19.5 10.5c0 7.142-7.5 11.25-7.5 11.25S4.5 17.642 4.5 10.5a7.5 7.5 0 1 1 15 0Z"
-                          />
-                        </svg>
-                      </div>
-                      <div>
                         <p className="text-white text-body line-clamp-2">
-                          Malioboro, Yogyakarta
+                          Beragam makanan khas daerah di Indonesia.
                         </p>
                       </div>
                     </div>
