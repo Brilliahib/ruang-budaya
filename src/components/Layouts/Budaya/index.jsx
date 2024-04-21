@@ -24,7 +24,7 @@ const BudayaSection = () => {
           </div>
           <div className="budaya-content">
             <div
-              className={`lg:grid lg:grid-cols-4 block md:grid md:grid-cols-2 lg:grid gap-x-8 sm:grid sm:grid-cols-2`}
+              className={`lg:grid lg:grid-cols-4 md:gap-4 block md:grid md:grid-cols-2 lg:grid gap-4 grid grid-cols-2`}
             >
               <div className="h-full lg:min-h-[450px] min-h-[250px] mb-4">
                 <div className="relative w-full h-full rounded-lg overflow-hidden">
