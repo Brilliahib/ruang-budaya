@@ -28,9 +28,12 @@ function Card({ imageUrl, title, description, mt, onClick }) {
         <p className="text-[#6F6F6F] flex text-sm tracking-wide leading-loose mb-4">
           {trimmedDescription}
         </p>
-        <Button type="outlined" fullWidth to="/budaya">
+        <button
+          href="/budaya"
+          className="w-full h-10 px-8 font-medium rounded-md text-white transition duration-300 border border-[#5d9981] text-[#5d9981] border bg-white hover:bg-[#5d9981] hover:text-white"
+        >
           Lihat Selengkapnya
-        </Button>
+        </button>
       </div>
     </div>
   );
