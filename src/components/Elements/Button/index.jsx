@@ -10,7 +10,7 @@ const Button = (props) => {
   if (type === "filled") {
     buttonClass += ` bg-[#5d9981]`;
   } else if (type === "outlined") {
-    buttonClass += ` border-[#5d9981] text-[#5d9980] border bg-white`;
+    buttonClass += ` border-[#5d9981] text-[#5d9980] border`;
     hoverClass = `hover:bg-[#5d9981] hover:text-white`;
   }
 

@@ -19,7 +19,7 @@ const BudayaSection = () => {
   return (
     <>
       <div
-        className="mx-auto max-w-7xl px-4 sm:px-24 lg:px-8 items-center flex mb-12"
+        className="mx-auto max-w-7xl px-4 sm:px-24 lg:px-8 items-center flex"
         id="budaya"
       >
         <div className="my-12 grid-cols-5 justify-center items-center">

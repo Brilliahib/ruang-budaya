@@ -52,3 +52,7 @@ body {
   height: 200px; /* Atur tinggi gambar di sini */
   object-fit: cover;
 }
+
+.bg-primary {
+  background-color: #5d9981;
+}
