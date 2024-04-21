@@ -39,12 +39,12 @@ body {
   font-size: clamp(1rem, 3vw, 1.25rem);
 }
 
-.underline-green::after {
+.underline-white::after {
   content: "";
   display: block;
   width: 100%;
   height: 2px; /* Atur ketebalan garis bawah di sini */
-  background-color: #5d9981; /* Atur warna garis bawah di sini */
+  background-color: #fff; /* Atur warna garis bawah di sini */
 }
 
 .card-image {

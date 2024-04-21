@@ -25,7 +25,9 @@ const Home = () => {
                   experiences that Indonesia has to offer.
                 </p>
               </div>
-              <Button to="/about">Jelajahi Sekarang</Button>
+              <Button type="filled" to="/about">
+                Jelajahi Sekarang
+              </Button>
             </div>
           </div>
           <div className="dark-overlay"></div>

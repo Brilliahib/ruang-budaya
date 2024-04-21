@@ -1,4 +1,5 @@
 import React from "react";
+import Button from "../../Elements/Button";
 
 function Card({ imageUrl, title, description, mt, onClick }) {
   // Memecah deskripsi menjadi array kata-kata
@@ -13,8 +14,7 @@ function Card({ imageUrl, title, description, mt, onClick }) {
   return (
     <div
       className={`card lg:mb-20 mb-8 sm:h-[300px] ${mt}`}
-      onClick={onClick}
-      style={{ cursor: "pointer", display: "flex", flexDirection: "column" }}
+      style={{ display: "flex", flexDirection: "column" }}
     >
       <div className="relative">
         <img
@@ -25,9 +25,12 @@ function Card({ imageUrl, title, description, mt, onClick }) {
       </div>
       <div className="card-content bg-white shadow pt-2 p-4 rounded-b-xl flex-grow">
         <p className="font-semibold text-base my-1 mb-2">{title}</p>
-        <p className="text-[#6F6F6F] flex text-sm tracking-wide leading-loose">
+        <p className="text-[#6F6F6F] flex text-sm tracking-wide leading-loose mb-4">
           {trimmedDescription}
         </p>
+        <Button type="outlined" fullWidth to="/budaya">
+          Lihat Selengkapnya
+        </Button>
       </div>
     </div>
   );

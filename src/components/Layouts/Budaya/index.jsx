@@ -18,7 +18,10 @@ const BudayaSection = () => {
   const limitedData = isMobile ? cardsData.slice(0, 3) : cardsData.slice(0, 3);
   return (
     <>
-      <div className="mx-auto max-w-7xl px-4 sm:px-24 lg:px-8 items-center flex">
+      <div
+        className="mx-auto max-w-7xl px-4 sm:px-24 lg:px-8 items-center flex mb-12"
+        id="budaya"
+      >
         <div className="my-12 grid-cols-5 justify-center items-center">
           <div className="heading flex flex-col gap-4 col-span-5 lg:col-span-3 mb-6">
             <div className="flex flex-col gap-2 mb-6">
@@ -38,13 +41,12 @@ const BudayaSection = () => {
               } gap-x-8`}
             >
               {limitedData.map((card, index) => (
-                <Link key={index} to="/destinasi" className="rounded-xl">
-                  <Card
-                    imageUrl={card.imageUrl}
-                    title={card.title}
-                    description={card.deskripsi}
-                  />
-                </Link>
+                <Card
+                  key={index} // or use a unique identifier from your card data
+                  imageUrl={card.imageUrl}
+                  title={card.title}
+                  description={card.deskripsi}
+                />
               ))}
             </div>
           </div>
