@@ -5,9 +5,9 @@ import { Link, useLocation } from "react-router-dom";
 
 const initialNavigation = [
   { name: "Home", href: "/", current: false },
-  { name: "Budaya", href: "/budaya", current: false },
-  { name: "Galeri", href: "/galeri", current: false },
-  { name: "Cerita", href: "/blog", current: false },
+  { name: "Budaya", href: "#budaya", current: false },
+  { name: "Galeri", href: "#galeri", current: false },
+  { name: "Cerita", href: "#blog", current: false },
 ];
 
 function classNames(...classes) {
@@ -78,8 +78,8 @@ export default function Navbar() {
                           className={classNames(
                             item.current
                               ? "text-white underline-white"
-                              : "text-white ml-8",
-                            "rounded-md py-2 text-sm font-medium",
+                              : "text-white ml-4",
+                            "text-sm font-medium",
                             item.subItems && "cursor-pointer",
                             isScrolled && "text-slate-900"
                           )}

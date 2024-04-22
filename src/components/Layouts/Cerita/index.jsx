@@ -38,11 +38,12 @@ const CeritaLayout = () => {
                       Cerita
                     </p>
                     <h3 className="text-white text-lg font-bold">
-                      Keindahan Indonesia
+                      3 Alasan Anda Wajib Mengenal Kebudayaan Yang Ada Di
+                      Indonesia!
                     </h3>
                     <p className="text-white text-body line-clamp-2">
-                      Discover the hidden gems of Yogyakarta with our local
-                      guide.
+                      Hal berikut ini menjadi alasan anda wajib mengenal
+                      kebudayaan di Indonesia.
                     </p>
                   </div>
                 </div>
