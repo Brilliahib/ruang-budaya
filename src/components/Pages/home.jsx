@@ -5,6 +5,7 @@ import Home from "../Layouts/Home";
 import BudayaSection from "../Layouts/Budaya";
 import CeritaLayout from "../Layouts/Cerita";
 import VideoSection from "../Layouts/Video";
+import Footer from "../Elements/Footer";
 
 function HomePage() {
   return (
@@ -14,6 +15,7 @@ function HomePage() {
       <BudayaSection />
       <VideoSection />
       <CeritaLayout />
+      <Footer />
     </>
   );
 }
