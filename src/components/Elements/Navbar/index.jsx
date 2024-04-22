@@ -7,7 +7,7 @@ const initialNavigation = [
   { name: "Home", href: "/", current: false },
   { name: "Budaya", href: "/budaya", current: false },
   { name: "Galeri", href: "/galeri", current: false },
-  { name: "Cerita", href: "/cerita", current: false },
+  { name: "Cerita", href: "/blog", current: false },
 ];
 
 function classNames(...classes) {
