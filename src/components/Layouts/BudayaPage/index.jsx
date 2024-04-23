@@ -1,12 +1,10 @@
-import bgImage from "../../../assets/img/hero-bali.jpg";
-
 const BudayaLayout = () => {
   return (
     <>
       <section className="pt-4 pb-16 lg:pt-6 lg:pb-24 antialiased">
-        <div className="px-4 mx-auto max-w-screen-xl">
-          <div className="mx-auto w-full max-w-6xl format format-sm mb-12">
-            <a href="/" className="flex items-center gap-4 mt-4 mb-12">
+        <div className="mx-auto max-w-screen-xl">
+          <div className="mx-auto max-w-7xl px-4 sm:px-24 lg:px-8 mb-24">
+            <a href="/budaya" className="flex items-center gap-4 mt-4 mb-12">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 fill="none"

@@ -6,6 +6,7 @@ import "./index.css";
 import HomePage from "./components/Pages/home.jsx";
 import BlogPage from "./components/Pages/blog.jsx";
 import BudayaPage from "./components/Pages/budaya.jsx";
+import DetailBudayaPage from "./components/Pages/detailbudaya.jsx";
 
 // Use createRoot instead of ReactDOM.render
 createRoot(document.getElementById("root")).render(
@@ -15,6 +16,7 @@ createRoot(document.getElementById("root")).render(
         <Route path="/" element={<HomePage />} />
         <Route path="/blog" element={<BlogPage />} />
         <Route path="/budaya" element={<BudayaPage />} />
+        <Route path="/budaya/detail" element={<DetailBudayaPage />} />
       </Routes>
     </Router>
   </React.StrictMode>

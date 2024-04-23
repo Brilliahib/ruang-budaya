@@ -1,14 +1,13 @@
 import Footer from "../Elements/Footer";
-import BudayaList from "../Layouts/BudayaList";
 import BudayaLayout from "../Layouts/BudayaPage";
 
-const BudayaPage = () => {
+const DetailBudayaPage = () => {
   return (
     <>
-      <BudayaList />
+      <BudayaLayout />
       <Footer />
     </>
   );
 };
 
-export default BudayaPage;
+export default DetailBudayaPage;

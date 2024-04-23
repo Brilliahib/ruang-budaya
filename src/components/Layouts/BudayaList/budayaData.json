@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "imageUrl": "https://images.unsplash.com/photo-1576233475048-55f08b53a8bd?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "kategori": "Peninggalan Sejarah",
+    "title": "Candi Prambanan",
+    "location": "Sleman, Yogyakarta, Indonesia",
+    "mapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1973.1068228123831!2d116.0362873885896!3d-8.478595647890598!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dcde9d6e28dfec9%3A0xcc02a56300f22ec9!2sSenggigi%20Beach!5e0!3m2!1sen!2sid!4v1707371059015!5m2!1sen!2sid",
+    "deskripsi": "Candi Prambanan adalah sebuah kompleks candi Hindu terbesar di Indonesia, terletak di sekitar 18 kilometer timur laut Yogyakarta, di Provinsi Jawa Tengah, Indonesia."
+  },
+  {
+    "id": 2,
+    "imageUrl": "https://images.unsplash.com/photo-1675956000201-5c42a62edf35?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "kategori": "Tarian Daerah",
+    "title": "Tari Kecak",
+    "location": "Ubud, Bali, Indonesia",
+    "mapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31574.65075451743!2d116.03097195702573!3d-8.418219013714365!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dcddd5a7446f087%3A0x7329873e06d51f27!2sPantai%20Pandanan!5e0!3m2!1sen!2sid!4v1707371121617!5m2!1sen!2sid",
+    "deskripsi": "Tari Kecak adalah tarian tradisional yang berasal dari Bali, Indonesia. Tarian ini ditampilkan oleh banyak penari pria yang duduk melingkar dan menghasilkan suara 'cak' yang khas."
+  },
+  {
+    "id": 3,
+    "imageUrl": "https://images.unsplash.com/photo-1538755995413-728f21cb13ea?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "kategori": "Tarian Daerah",
+    "title": "Reog Ponorogo",
+    "location": "Ponorogo, Jawa Timur, Indonesia",
+    "mapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15790.08350757315!2d116.0259063979885!3d-8.35030911698101!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dcde0ab4ff1579f%3A0xfcea7c174732d4b2!2sGili%20Trawangan!5e0!3m2!1sen!2sid!4v1707371349247!5m2!1sen!2sid",
+    "deskripsi": "Reog Ponorogo adalah seni pertunjukan tradisional Jawa Timur, Indonesia. Pertunjukan ini melibatkan tarian singa dan berbagai karakter mitologis lainnya."
+  },
+  {
+    "id": 4,
+    "imageUrl": "https://static.promediateknologi.id/crop/51x665:1026x1320/0x0/webp/photo/p3/43/2024/02/11/Screenshot_20240211_153206-1000928342.jpg",
+    "kategori": "Tarian Daerah",
+    "title": "Tari Serimpi",
+    "location": "Surakarta, Jawa Tengah, Indonesia",
+    "mapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31536.567311690138!2d116.12552924994493!3d-8.872990734242116!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dcda718f67f4275%3A0x5785a4de937d7c93!2sSelong%20Belanak%20Beach!5e0!3m2!1sen!2sid!4v1707371488726!5m2!1sen!2sid",
+    "deskripsi": "Tari Serimpi adalah tarian tradisional Jawa Tengah, Indonesia. Tarian ini sering ditampilkan pada acara adat atau upacara resmi."
+  },
+  {
+    "id": 5,
+    "imageUrl": "https://visitingjogja.jogjaprov.go.id/en/wp-content/uploads/2022/09/gudeg_@eattemptationsby.jpg",
+    "kategori": "Makanan Daerah",
+    "title": "Gudeg Khas Yogyakarta",
+    "location": "Yogyakarta, Indonesia",
+    "mapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31567.108940336548!2d116.19954671083981!3d-8.510194599999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dcdc8a69002579f%3A0x4f9720f4b3dd19ee!2sSesaot%20Forest%20and%20Batu%20Pandan%20Waterfall!5e0!3m2!1sen!2sid!4v1707371675113!5m2!1sen!2sid",
+    "deskripsi": "Gudeg adalah makanan tradisional dari Yogyakarta, Indonesia, yang terbuat dari nangka muda yang dimasak dengan santan dan rempah-rempah."
+  },
+  {
+    "id": 6,
+    "imageUrl": "https://images.unsplash.com/photo-1600790314350-3925299bab61?q=80&w=1965&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "kategori": "Tempat Wisata",
+    "title": "Gili Air",
+    "location": "Sambelia, Lombok Timur, Indonesia",
+    "mapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3948.1486498585055!2d116.46804957501045!3d-8.288001291746701!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dcc2ba8e3da4727%3A0x1ee4a7c9848a05cd!2sMangku%20Sakti%20Water%20Fall%20%26%20Mangku%20Kodek%20Water%20Fall!5e0!3m2!1sen!2sid!4v1709299273257!5m2!1sen!2sid",
+    "deskripsi": "Gili Air adalah salah satu dari tiga pulau Gili yang terletak di sebelah barat laut Lombok, Indonesia. Pulau ini terkenal dengan pantainya yang indah dan suasana yang tenang."
+  }
+]
