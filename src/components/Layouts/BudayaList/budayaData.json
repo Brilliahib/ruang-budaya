@@ -52,5 +52,32 @@
     "location": "Sambelia, Lombok Timur, Indonesia",
     "mapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3948.1486498585055!2d116.46804957501045!3d-8.288001291746701!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dcc2ba8e3da4727%3A0x1ee4a7c9848a05cd!2sMangku%20Sakti%20Water%20Fall%20%26%20Mangku%20Kodek%20Water%20Fall!5e0!3m2!1sen!2sid!4v1709299273257!5m2!1sen!2sid",
     "deskripsi": "Gili Air adalah salah satu dari tiga pulau Gili yang terletak di sebelah barat laut Lombok, Indonesia. Pulau ini terkenal dengan pantainya yang indah dan suasana yang tenang."
+  },
+  {
+    "id": 7,
+    "imageUrl": "https://images.unsplash.com/photo-1584810359583-96fc3448beaa?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "kategori": "Peninggalan Sejarah",
+    "title": "Candi Borobudur",
+    "location": "Sambelia, Lombok Timur, Indonesia",
+    "mapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3948.1486498585055!2d116.46804957501045!3d-8.288001291746701!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dcc2ba8e3da4727%3A0x1ee4a7c9848a05cd!2sMangku%20Sakti%20Water%20Fall%20%26%20Mangku%20Kodek%20Water%20Fall!5e0!3m2!1sen!2sid!4v1709299273257!5m2!1sen!2sid",
+    "deskripsi": "Candi Borobudur adalah kompleks kuil Buddha terbesar di dunia yang terletak di Magelang, Jawa Tengah, Indonesia. Dibangun pada abad ke-9 Masehi, candi ini merupakan contoh masterpiece arsitektur Buddha Mahayana. "
+  },
+  {
+    "id": 8,
+    "imageUrl": "https://akcdn.detik.net.id/community/media/visual/2022/06/10/ilustrasi-rendang-1_169.jpeg?w=620",
+    "kategori": "Makanan Daerah",
+    "title": "Rendang",
+    "location": "Sambelia, Lombok Timur, Indonesia",
+    "mapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3948.1486498585055!2d116.46804957501045!3d-8.288001291746701!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dcc2ba8e3da4727%3A0x1ee4a7c9848a05cd!2sMangku%20Sakti%20Water%20Fall%20%26%20Mangku%20Kodek%20Water%20Fall!5e0!3m2!1sen!2sid!4v1709299273257!5m2!1sen!2sid",
+    "deskripsi": "Rendang adalah masakan tradisional Indonesia yang terkenal di dunia. Ini adalah masakan daging yang dimasak dalam campuran rempah-rempah, santan, dan bumbu lainnya hingga kuahnya mengental dan dagingnya empuk."
+  },
+  {
+    "id": 9,
+    "imageUrl": "https://images.unsplash.com/photo-1539367628448-4bc5c9d171c8?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "kategori": "Tempat Wisata",
+    "title": "Pantai Kelingking",
+    "location": "Sambelia, Lombok Timur, Indonesia",
+    "mapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3948.1486498585055!2d116.46804957501045!3d-8.288001291746701!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dcc2ba8e3da4727%3A0x1ee4a7c9848a05cd!2sMangku%20Sakti%20Water%20Fall%20%26%20Mangku%20Kodek%20Water%20Fall!5e0!3m2!1sen!2sid!4v1709299273257!5m2!1sen!2sid",
+    "deskripsi": "Pantai Kelingking adalah sebuah pantai yang terletak di Pulau Nusa Penida, bagian dari kepulauan Bali, Indonesia. Terkenal karena formasi tebingnya yang menyerupai ekor singa (karena itulah dinamakan Kelingking, yang berarti jari kelingking dalam bahasa Indonesia), pantai ini menawarkan pemandangan alam yang spektakuler."
   }
 ]
