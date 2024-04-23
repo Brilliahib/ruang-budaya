@@ -11,6 +11,10 @@
     {
       "src": "/budaya",
       "dest": "/"
+    },
+    {
+      "src": "/budaya/detail",
+      "dest": "/"
     }
   ]
 }
