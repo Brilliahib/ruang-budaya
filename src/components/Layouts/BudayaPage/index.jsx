@@ -1,7 +1,7 @@
 const BudayaLayout = () => {
   return (
     <>
-      <section className="pt-4 pb-16 lg:pt-6 lg:pb-24 antialiased">
+      <section className="pt-4 lg:pt-6">
         <div className="mx-auto max-w-screen-xl">
           <div className="mx-auto max-w-7xl px-4 sm:px-24 lg:px-8 mb-24">
             <a href="/budaya" className="flex items-center gap-4 mt-4 mb-12">
@@ -33,34 +33,37 @@ const BudayaLayout = () => {
                 <div className="tour-content mb-6 lg:mb-0">
                   <div className="tour-hero mb-8">
                     <img
-                      src="https://at-jogja.vercel.app/images/prambanan.jpg"
+                      src="https://images.unsplash.com/photo-1578469550956-0e16b69c6a3d?q=80&w=2006&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                       alt=""
-                      className="rounded-xl"
+                      className="rounded-xl md:h-[450px] object-cover w-full"
                     />
                   </div>
                   <div className="tour-desc">
                     <p className="mb-8">
-                      Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                      Esse quidem enim maiores tempore quod vel, accusantium
-                      perspiciatis. Provident sequi nulla a, quia eos iste sit.
-                      Dolores totam quidem sed commodi.
+                      Candi Prambanan, sebuah kompleks candi Hindu yang memukau,
+                      terletak di Jawa Tengah, Indonesia. Dibangun pada abad
+                      ke-9 Masehi oleh Dinasti Sanjaya, kompleks ini adalah
+                      salah satu contoh paling megah dari arsitektur Hindu
+                      klasik di Asia Tenggara.
                     </p>
                     <p className="mb-8">
-                      Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                      Esse quidem enim maiores tempore quod vel, accusantium
-                      perspiciatis. Provident sequi nulla a, quia eos iste sit.
-                      Dolores totam quidem sed commodi.
+                      Kompleks ini terdiri dari beberapa bangunan, dengan candi
+                      utama yang didedikasikan untuk Trimurti Hindu, yaitu
+                      Brahma, Wisnu, dan Siwa. Struktur utama candi mencapai
+                      ketinggian hingga 47 meter (155 kaki), menara tinggi di
+                      langit dengan keanggunan dan keindahan arsitekturnya.
                     </p>
                     <p>
-                      Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                      Esse quidem enim maiores tempore quod vel, accusantium
-                      perspiciatis. Provident sequi nulla a, quia eos iste sit.
-                      Dolores totam quidem sed commodi.
+                      Salah satu hal yang paling menonjol dari Candi Prambanan
+                      adalah ukiran batu yang memukau yang menghiasi
+                      dinding-dindingnya. Patung-patung dewa dan dewi Hindu,
+                      terutama Siwa, Wisnu, dan Brahma, menghiasi bagian dalam
+                      dan luar candi, menambahkan nuansa sakral dan artistik.
                     </p>
                   </div>
                 </div>
                 <div className="tour-sidebars">
-                  <div className="sidebars-content bg-white border rounded-xl p-8">
+                  <div className="sidebars-content bg-white border rounded-xl p-4 md:p-6">
                     <div className="sidebars-title mb-4">
                       <p className="text-white text-xs font-bold bg-primary px-2 py-1 rounded-full inline-block mb-2">
                         Peninggalan Sejarah

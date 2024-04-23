@@ -75,11 +75,12 @@ const CeritaLayout = () => {
                           Cerita
                         </p>
                         <h3 className="text-white text-lg font-bold">
-                          5 Tips for a Perfect Weekend Getaway in Yogyakarta
+                          Beberapa budaya ini sudah diakui banyak oleh banyak
+                          negara asing!
                         </h3>
                         <p className="text-white text-body line-clamp-2">
-                          Discover the hidden gems of Yogyakarta with our local
-                          guide.{" "}
+                          Budaya berikut ini adalah budaya yang sudah banyak
+                          diakui oleh negara asing.
                         </p>
                       </div>
                     </div>
@@ -89,7 +90,7 @@ const CeritaLayout = () => {
                   <div className="h-full min-h-[300px]">
                     <div className="relative w-full h-full rounded-lg overflow-hidden">
                       <img
-                        src="https://images.unsplash.com/photo-1620353654786-5608cc85fc32?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                        src="https://images.unsplash.com/photo-1631795617958-3ddcf718d6aa?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                         alt=""
                         loading="lazy"
                         decoding="async"
@@ -109,11 +110,12 @@ const CeritaLayout = () => {
                           Cerita
                         </p>
                         <h3 className="text-white text-lg font-bold">
-                          5 Tips for a Perfect Weekend Getaway in Yogyakarta
+                          Mengapa Yogyakarta sering disebut sebagai kota
+                          pendidikan?
                         </h3>
                         <p className="text-white text-body line-clamp-2">
-                          Discover the hidden gems of Yogyakarta with our local
-                          guide.{" "}
+                          Yogyakarta merupakan kota pendidikan dengan banyaknya
+                          universitas yang ada di kota tersebut.
                         </p>
                       </div>
                     </div>
@@ -123,7 +125,7 @@ const CeritaLayout = () => {
                   <div className="h-full min-h-[300px]">
                     <div className="relative w-full h-full rounded-lg overflow-hidden">
                       <img
-                        src="https://images.unsplash.com/photo-1627974158587-78602bcc87f3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                        src="https://images.unsplash.com/photo-1576403587258-33453da1ace3?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                         alt=""
                         loading="lazy"
                         decoding="async"
@@ -143,11 +145,11 @@ const CeritaLayout = () => {
                           Cerita
                         </p>
                         <h3 className="text-white text-lg font-bold">
-                          5 Tips for a Perfect Weekend Getaway in Yogyakarta
+                          5 Pegunungan dengan view yang sangat menarik.
                         </h3>
                         <p className="text-white text-body line-clamp-2">
-                          Discover the hidden gems of Yogyakarta with our local
-                          guide.{" "}
+                          Pegunungan dengan view yang cantik merupakan buruang
+                          orang belakangan ini.
                         </p>
                       </div>
                     </div>
@@ -177,11 +179,11 @@ const CeritaLayout = () => {
                           Cerita
                         </p>
                         <h3 className="text-white text-lg font-bold">
-                          5 Tips for a Perfect Weekend Getaway in Yogyakarta
+                          Tempat wisata yang wajib dicoba ketika liburan di
+                          Bali.
                         </h3>
                         <p className="text-white text-body line-clamp-2">
-                          Discover the hidden gems of Yogyakarta with our local
-                          guide.{" "}
+                          Berikut ini beberapa wisata yang wajib anda kunjungi.
                         </p>
                       </div>
                     </div>
