@@ -6,8 +6,8 @@ import { Link, useLocation } from "react-router-dom";
 const initialNavigation = [
   { name: "Home", href: "/", current: false },
   { name: "Budaya", href: "/budaya", current: false },
-  { name: "Galeri", href: "/galeri", current: false },
   { name: "Cerita", href: "/blog", current: false },
+  { name: "Calendar", href: "/calendar", current: false },
 ];
 
 function classNames(...classes) {

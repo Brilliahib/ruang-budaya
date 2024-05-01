@@ -63,3 +63,22 @@ body {
   flex-wrap: wrap;
   align-items: flex-start;
 }
+
+/* Untuk tombol Next */
+.fc-next-button {
+  background-color: #5d9981 !important;
+  color: white;
+  border: 0px !important;
+}
+
+/* Untuk tombol Prev */
+.fc-prev-button {
+  background-color: #5d9981 !important;
+  color: white;
+  border: 0px !important;
+}
+
+.fc-daygrid-event {
+  background-color: #5d9981 !important;
+  border: 0px !important;
+}
