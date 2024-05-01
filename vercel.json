@@ -15,6 +15,10 @@
     {
       "src": "/budaya/detail",
       "dest": "/"
+    },
+    {
+      "src": "/calendar",
+      "dest": "/"
     }
   ]
 }
