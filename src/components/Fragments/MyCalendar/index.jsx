@@ -101,10 +101,9 @@ function EventsView() {
                 onChange={handleCategoryChange}
               >
                 <option value="Semua Kategori">Semua Kategori</option>
-                <option value="Peninggalan Sejarah">Peninggalan Sejarah</option>
-                <option value="Tarian Daerah">Tarian Daerah</option>
-                <option value="Tempat Wisata">Tempat Wisata</option>
-                <option value="Makanan Daerah">Makanan Daerah</option>
+                <option value="Pawai Budaya">Pawai Budaya</option>
+                <option value="Festival">Festival</option>
+                <option value="Pentas Seni">Pentas Seni</option>
               </select>
             </div>
           </div>

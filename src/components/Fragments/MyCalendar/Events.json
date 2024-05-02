@@ -1,26 +1,98 @@
 [
-  { "title": "Tari Kecak", "date": "2024-05-01" },
-  { "title": "Pawai Budaya Nusantara", "date": "2024-05-05" },
-  { "title": "Festival Wayang Kulit", "date": "2024-05-10" },
-  { "title": "Pesta Rakyat Bali", "date": "2024-05-15" },
-  { "title": "Festival Gong Jawa", "date": "2024-05-20" },
-  { "title": "Pentas Seni Tradisional Betawi", "date": "2024-05-25" },
-  { "title": "Lomba Makan Kerupuk", "date": "2024-06-01" },
-  { "title": "Festival Reog Ponorogo", "date": "2024-06-05" },
-  { "title": "Pawai Budaya Toraja", "date": "2024-06-10" },
-  { "title": "Pesta Kesenian Yogyakarta (PKY)", "date": "2024-06-15" },
-  { "title": "Festival Jaranan", "date": "2024-06-20" },
-  { "title": "Pentas Seni Wayang Orang", "date": "2024-06-25" },
-  { "title": "Festival Danau Toba", "date": "2024-07-01" },
-  { "title": "Pentas Seni Kuda Lumping", "date": "2024-07-05" },
-  { "title": "Festival Budaya Batak", "date": "2024-07-10" },
-  { "title": "Pesta Layang-layang", "date": "2024-07-15" },
-  { "title": "Festival Tari Saman", "date": "2024-07-20" },
-  { "title": "Pentas Seni Angklung", "date": "2024-07-25" },
-  { "title": "Pesta Budaya Minangkabau", "date": "2024-08-01" },
-  { "title": "Festival Keraton Nusantara", "date": "2024-08-05" },
-  { "title": "Pawai Budaya Papua", "date": "2024-08-10" },
-  { "title": "Lomba Panjat Pinang", "date": "2024-08-15" },
-  { "title": "Festival Budaya Bugis", "date": "2024-08-20" },
-  { "title": "Pentas Seni Randai", "date": "2024-08-25" }
+  { "title": "Tari Kecak", "date": "2024-05-01", "kategori": "Pentas Seni" },
+  {
+    "title": "Pawai Budaya Nusantara",
+    "date": "2024-05-05",
+    "kategori": "Pawai Budaya"
+  },
+  {
+    "title": "Festival Wayang Kulit",
+    "date": "2024-05-10",
+    "kategori": "Festival"
+  },
+  { "title": "Pesta Rakyat Bali", "date": "2024-05-15", "kategori": "Pesta" },
+  {
+    "title": "Festival Gong Jawa",
+    "date": "2024-05-20",
+    "kategori": "Festival"
+  },
+  {
+    "title": "Pentas Seni Tradisional Betawi",
+    "date": "2024-05-25",
+    "kategori": "Pentas Seni"
+  },
+  { "title": "Lomba Makan Kerupuk", "date": "2024-06-01", "kategori": "Lomba" },
+  {
+    "title": "Festival Reog Ponorogo",
+    "date": "2024-06-05",
+    "kategori": "Festival"
+  },
+  {
+    "title": "Pawai Budaya Toraja",
+    "date": "2024-06-10",
+    "kategori": "Pawai Budaya"
+  },
+  {
+    "title": "Pesta Kesenian Yogyakarta (PKY)",
+    "date": "2024-06-15",
+    "kategori": "Pesta"
+  },
+  { "title": "Festival Jaranan", "date": "2024-06-20", "kategori": "Festival" },
+  {
+    "title": "Pentas Seni Wayang Orang",
+    "date": "2024-06-25",
+    "kategori": "Pentas Seni"
+  },
+  {
+    "title": "Festival Danau Toba",
+    "date": "2024-07-01",
+    "kategori": "Festival"
+  },
+  {
+    "title": "Pentas Seni Kuda Lumping",
+    "date": "2024-07-05",
+    "kategori": "Pentas Seni"
+  },
+  {
+    "title": "Festival Budaya Batak",
+    "date": "2024-07-10",
+    "kategori": "Festival"
+  },
+  { "title": "Pesta Layang-layang", "date": "2024-07-15", "kategori": "Pesta" },
+  {
+    "title": "Festival Tari Saman",
+    "date": "2024-07-20",
+    "kategori": "Festival"
+  },
+  {
+    "title": "Pentas Seni Angklung",
+    "date": "2024-07-25",
+    "kategori": "Pentas Seni"
+  },
+  {
+    "title": "Pesta Budaya Minangkabau",
+    "date": "2024-08-01",
+    "kategori": "Pesta"
+  },
+  {
+    "title": "Festival Keraton Nusantara",
+    "date": "2024-08-05",
+    "kategori": "Festival"
+  },
+  {
+    "title": "Pawai Budaya Papua",
+    "date": "2024-08-10",
+    "kategori": "Pawai Budaya"
+  },
+  { "title": "Lomba Panjat Pinang", "date": "2024-08-15", "kategori": "Lomba" },
+  {
+    "title": "Festival Budaya Bugis",
+    "date": "2024-08-20",
+    "kategori": "Festival"
+  },
+  {
+    "title": "Pentas Seni Randai",
+    "date": "2024-08-25",
+    "kategori": "Pentas Seni"
+  }
 ]
