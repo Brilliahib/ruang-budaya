@@ -17,7 +17,7 @@
       "dest": "/"
     },
     {
-      "src": "/calendar",
+      "src": "/events",
       "dest": "/"
     }
   ]
