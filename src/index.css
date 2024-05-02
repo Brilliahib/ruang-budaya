@@ -82,3 +82,14 @@ body {
   background-color: #5d9981 !important;
   border: 0px !important;
 }
+
+.tab-active {
+  background-color: #5d9981 !important;
+  color: #fff !important;
+}
+
+.join-item:checked {
+  background-color: #5d9981 !important;
+  border: 0 !important;
+  color: #fff !important;
+}

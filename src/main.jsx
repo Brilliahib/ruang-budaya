@@ -18,7 +18,7 @@ createRoot(document.getElementById("root")).render(
         <Route path="/blog" element={<BlogPage />} />
         <Route path="/budaya" element={<BudayaPage />} />
         <Route path="/budaya/detail" element={<DetailBudayaPage />} />
-        <Route path="/calendar" element={<CalendarPage />} />
+        <Route path="/events" element={<CalendarPage />} />
       </Routes>
     </Router>
   </React.StrictMode>
