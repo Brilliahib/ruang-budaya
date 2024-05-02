@@ -118,6 +118,22 @@ function EventsView() {
                   <a href="/" key={index}>
                     <div className="h-full min-h-[300px]">
                       <div className="relative w-full h-full rounded-lg overflow-hidden">
+                        <img
+                          src={budaya.imageUrl}
+                          alt=""
+                          loading="lazy"
+                          decoding="async"
+                          data-nimg="fill"
+                          className="rounded w-full h-full object-cover bg-cover"
+                          sizes="100vw"
+                          style={{
+                            position: "absolute",
+                            height: "100%",
+                            width: "100%",
+                            inset: "0px",
+                            color: "transparent",
+                          }}
+                        />
                         <div className="absolute inset-0 bg-black bg-opacity-40 flex flex-col items-start justify-end p-6 gap-2">
                           <h3 className="text-white text-lg font-bold title">
                             {budaya.title}

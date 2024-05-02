@@ -1,98 +1,146 @@
 [
-  { "title": "Tari Kecak", "date": "2024-05-01", "kategori": "Pentas Seni" },
+  {
+    "title": "Tari Kecak",
+    "date": "2024-05-01",
+    "kategori": "Pentas Seni",
+    "imageUrl": "https://images.unsplash.com/photo-1607541297580-7bb554347b5f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
   {
     "title": "Pawai Budaya Nusantara",
     "date": "2024-05-05",
-    "kategori": "Pawai Budaya"
+    "kategori": "Pawai Budaya",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/Pawai_Budaya_di_Jakarta.jpg"
   },
   {
     "title": "Festival Wayang Kulit",
     "date": "2024-05-10",
-    "kategori": "Festival"
+    "kategori": "Festival",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Dalang_cilik_di_Pasar_Malam_Semawis%2C_Semarang.jpg/800px-Dalang_cilik_di_Pasar_Malam_Semawis%2C_Semarang.jpg"
   },
-  { "title": "Pesta Rakyat Bali", "date": "2024-05-15", "kategori": "Pesta" },
+  {
+    "title": "Pesta Rakyat Bali",
+    "date": "2024-05-15",
+    "kategori": "Pesta",
+    "imageUrl": "https://beritakaltim.co/wp-content/uploads/2016/06/bali-art-festival1.jpg"
+  },
   {
     "title": "Festival Gong Jawa",
     "date": "2024-05-20",
-    "kategori": "Festival"
+    "kategori": "Festival",
+    "imageUrl": "https://ik.imagekit.io/tvlk/blog/2024/03/shutterstock_1195469449.jpg?tr=dpr-2,w-675"
   },
   {
     "title": "Pentas Seni Tradisional Betawi",
     "date": "2024-05-25",
-    "kategori": "Pentas Seni"
+    "kategori": "Pentas Seni",
+    "imageUrl": "https://www.selasar.com/wp-content/uploads/2020/09/pertunjukan-tari-topeng-betawi.jpeg"
   },
-  { "title": "Lomba Makan Kerupuk", "date": "2024-06-01", "kategori": "Lomba" },
+  {
+    "title": "Lomba Makan Kerupuk",
+    "date": "2024-06-01",
+    "kategori": "Lomba",
+    "imageUrl": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1613536007/h3ygvcr4ratcegsupvds.jpg"
+  },
   {
     "title": "Festival Reog Ponorogo",
     "date": "2024-06-05",
-    "kategori": "Festival"
+    "kategori": "Festival",
+    "imageUrl": "https://static.republika.co.id/uploads/images/xlarge/099342500-1665156734-1280-856.jpg"
   },
   {
     "title": "Pawai Budaya Toraja",
     "date": "2024-06-10",
-    "kategori": "Pawai Budaya"
+    "kategori": "Pawai Budaya",
+    "imageUrl": "https://cdn.antarafoto.com/cache/1200x816/2010/12/17/karnaval-budaya-2s70-dom.jpg"
   },
   {
     "title": "Pesta Kesenian Yogyakarta (PKY)",
     "date": "2024-06-15",
-    "kategori": "Pesta"
+    "kategori": "Pesta",
+    "imageUrl": "https://jbbudaya.jogjabelajar.org/file/artikel/e9b8afcaa31d4375282526a0afc2c4ed.jpg"
   },
-  { "title": "Festival Jaranan", "date": "2024-06-20", "kategori": "Festival" },
+  {
+    "title": "Festival Jaranan",
+    "date": "2024-06-20",
+    "kategori": "Festival",
+    "imageUrl": "https://i0.wp.com/www.infobudaya.net/wp-content/uploads/2017/08/Jaranan-Sentherewe.jpg?ssl=1"
+  },
   {
     "title": "Pentas Seni Wayang Orang",
     "date": "2024-06-25",
-    "kategori": "Pentas Seni"
+    "kategori": "Pentas Seni",
+    "imageUrl": "https://c.files.bbci.co.uk/D655/production/_112896845_img_8980.jpg"
   },
   {
     "title": "Festival Danau Toba",
     "date": "2024-07-01",
-    "kategori": "Festival"
+    "kategori": "Festival",
+    "imageUrl": "https://www.indonesia.travel/content/dam/indtravelrevamp/en/news-events/events/lake-toba-festival-2016/4d16dc6baee7f395a184575cbae6999058210aed-f157d.jpg"
   },
   {
     "title": "Pentas Seni Kuda Lumping",
     "date": "2024-07-05",
-    "kategori": "Pentas Seni"
+    "kategori": "Pentas Seni",
+    "imageUrl": "https://www.infopublik.id/resources/album/september-2018/TARI_KUDA_LUMPING.JPG"
   },
   {
     "title": "Festival Budaya Batak",
     "date": "2024-07-10",
-    "kategori": "Festival"
+    "kategori": "Festival",
+    "imageUrl": "https://travel.wego.com/berita/wp-content/uploads/2013/09/editorialonly_womendance_corrt.jpg"
   },
-  { "title": "Pesta Layang-layang", "date": "2024-07-15", "kategori": "Pesta" },
+  {
+    "title": "Pesta Layang-layang",
+    "date": "2024-07-15",
+    "kategori": "Pesta",
+    "imageUrl": "https://disk.mediaindonesia.com/files/news/2023/07/90fa9287b974b6b386367d2068660f3b.jpg"
+  },
   {
     "title": "Festival Tari Saman",
     "date": "2024-07-20",
-    "kategori": "Festival"
+    "kategori": "Festival",
+    "imageUrl": "https://asset.kompas.com/crops/sdPMA1h5R6YMGGOqOstueA_MjT4=/0x15:2048x1380/750x500/data/photo/2022/02/24/62176abfbaa56.jpeg"
   },
   {
     "title": "Pentas Seni Angklung",
     "date": "2024-07-25",
-    "kategori": "Pentas Seni"
+    "kategori": "Pentas Seni",
+    "imageUrl": "https://indonesiakaya.com/wp-content/uploads/2020/10/angklung_gubrag_1200.jpg"
   },
   {
     "title": "Pesta Budaya Minangkabau",
     "date": "2024-08-01",
-    "kategori": "Pesta"
+    "kategori": "Pesta",
+    "imageUrl": "https://sumbarprov.go.id/images/2022/11/IMG-20221118-WA0000.jpg"
   },
   {
     "title": "Festival Keraton Nusantara",
     "date": "2024-08-05",
-    "kategori": "Festival"
+    "kategori": "Festival",
+    "imageUrl": "https://turisian.com/wp-content/uploads/2023/03/B10DBB7C-D507-455C-9B0E-786C44BCE49F.jpeg"
   },
   {
     "title": "Pawai Budaya Papua",
     "date": "2024-08-10",
-    "kategori": "Pawai Budaya"
+    "kategori": "Pawai Budaya",
+    "imageUrl": "https://cdn.antarafoto.com/cache/1200x799/2023/06/01/masyarakat-suku-asmat-di-papua-selatan-16qzl-dom.jpg"
   },
-  { "title": "Lomba Panjat Pinang", "date": "2024-08-15", "kategori": "Lomba" },
+  {
+    "title": "Lomba Panjat Pinang",
+    "date": "2024-08-15",
+    "kategori": "Lomba",
+    "imageUrl": "https://asset.kompas.com/crops/ZWFE2Uy13Wd-I8jbP-IHVmO6btg=/0x1:1000x668/1200x800/data/photo/2017/08/17/1852232150297052267e-lomba-panjat-pinang-kolosal-pantai-carnaval-taman-impian-jaya-an.jpg"
+  },
   {
     "title": "Festival Budaya Bugis",
     "date": "2024-08-20",
-    "kategori": "Festival"
+    "kategori": "Festival",
+    "imageUrl": "https://media.telisik.id/assets/img/news/2023/01/5_tradisi_unik_suku_bugis.jpg"
   },
   {
     "title": "Pentas Seni Randai",
     "date": "2024-08-25",
-    "kategori": "Pentas Seni"
+    "kategori": "Pentas Seni",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Randai_Seni_Pertunjukan.jpg"
   }
 ]
