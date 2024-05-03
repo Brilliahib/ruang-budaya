@@ -8,6 +8,7 @@ import BlogPage from "./components/Pages/blog.jsx";
 import BudayaPage from "./components/Pages/budaya.jsx";
 import DetailBudayaPage from "./components/Pages/detailbudaya.jsx";
 import CalendarPage from "./components/Pages/calendar.jsx";
+import DetailEventPage from "./components/Pages/detailevents.jsx";
 
 // Use createRoot instead of ReactDOM.render
 createRoot(document.getElementById("root")).render(
@@ -19,6 +20,7 @@ createRoot(document.getElementById("root")).render(
         <Route path="/budaya" element={<BudayaPage />} />
         <Route path="/budaya/detail" element={<DetailBudayaPage />} />
         <Route path="/events" element={<CalendarPage />} />
+        <Route path="/events/detail" element={<DetailEventPage />} />
       </Routes>
     </Router>
   </React.StrictMode>

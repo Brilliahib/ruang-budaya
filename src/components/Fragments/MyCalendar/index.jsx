@@ -115,7 +115,7 @@ function EventsView() {
                 </div>
               ) : (
                 currentBudaya.map((budaya, index) => (
-                  <a href="/" key={index}>
+                  <a href="/events/detail" key={index}>
                     <div className="h-full min-h-[300px]">
                       <div className="relative w-full h-full rounded-lg overflow-hidden">
                         <img
