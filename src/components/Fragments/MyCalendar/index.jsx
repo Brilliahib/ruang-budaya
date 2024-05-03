@@ -180,7 +180,7 @@ function EventsView() {
 }
 
 function MyCalendar() {
-  const [view, setView] = useState("calendar");
+  const [view, setView] = useState("events");
 
   return (
     <>
