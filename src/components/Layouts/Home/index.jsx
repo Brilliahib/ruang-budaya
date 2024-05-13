@@ -21,8 +21,8 @@ const Home = () => {
                   Telusuri Keindahan Budaya Indonesia
                 </h1>
                 <p className="text-subheading">
-                  Exploring the diverse and enchanting landscapes, cultures, and
-                  experiences that Indonesia has to offer.
+                  Menjelajahi bentang alam, budaya, dan pengalaman yang beragam
+                  dan mempesona yang ditawarkan Indonesia.
                 </p>
               </div>
               <Button type="filled" to="/budaya">

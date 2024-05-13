@@ -55,7 +55,7 @@ body {
 }
 
 .bg-primary {
-  background-color: #5d9981;
+  background-color: #76a17f;
 }
 
 .budaya-wrapper {
@@ -66,30 +66,30 @@ body {
 
 /* Untuk tombol Next */
 .fc-next-button {
-  background-color: #5d9981 !important;
+  background-color: #76a17f !important;
   color: white;
   border: 0px !important;
 }
 
 /* Untuk tombol Prev */
 .fc-prev-button {
-  background-color: #5d9981 !important;
+  background-color: #76a17f !important;
   color: white;
   border: 0px !important;
 }
 
 .fc-daygrid-event {
-  background-color: #5d9981 !important;
+  background-color: #76a17f !important;
   border: 0px !important;
 }
 
 .tab-active {
-  background-color: #5d9981 !important;
+  background-color: #76a17f !important;
   color: #fff !important;
 }
 
 .join-item:checked {
-  background-color: #5d9981 !important;
+  background-color: #76a17f !important;
   border: 0 !important;
   color: #fff !important;
 }

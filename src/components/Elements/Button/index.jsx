@@ -8,10 +8,10 @@ const Button = (props) => {
   let hoverClass = "";
 
   if (type === "filled") {
-    buttonClass += ` bg-[#5d9981]`;
+    buttonClass += ` bg-[#76a17f]`;
   } else if (type === "outlined") {
-    buttonClass += ` border-[#5d9981] text-[#5d9980] border`;
-    hoverClass = `hover:bg-[#5d9981] hover:text-white`;
+    buttonClass += ` border-[#76a17f] text-[#76a17f] border`;
+    hoverClass = `hover:bg-[#76a17f] hover:text-white`;
   }
 
   if (fullWidth) {

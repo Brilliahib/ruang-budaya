@@ -40,10 +40,10 @@ const VideoSection = () => {
               >
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
-                  fill="#5d9981"
+                  fill="#76a17f"
                   viewBox="0 0 24 24"
                   strokeWidth="1.5"
-                  stroke="#5d9981"
+                  stroke="#76a17f"
                   className="w-6 h-6 pointer-events-none scale-75 md:scale-100 group-hover:scale-90 md:group-hover:scale-110 transition-transform duration-300 ease-in-out"
                 >
                   <path

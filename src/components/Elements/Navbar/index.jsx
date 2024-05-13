@@ -44,7 +44,7 @@ export default function Navbar() {
     <Disclosure
       as="nav"
       className={`sticky top-0 transition-all ${
-        isScrolled ? "bg-[#5d9981] text-white" : "text-white"
+        isScrolled ? "bg-[#76a17f] text-white" : "text-white"
       }`}
       style={{ zIndex: 999, paddingTop: isScrolled ? 0 : "30px" }}
     >

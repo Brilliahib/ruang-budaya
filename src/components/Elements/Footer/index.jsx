@@ -7,22 +7,22 @@ const Footer = () => {
             <div className="col-span-12 flex flex-col gap-y-4 md:col-span-3">
               <h1 className="text-xl font-semibold">ruangbudaya</h1>
               <p className="text-sm font-medium">
-                Explore Indonesia effortlessly with our expert guide, packed
-                with curated recommendations and user-friendly features
+                Menjelajahi bentang alam, budaya, dan pengalaman yang beragam
+                dan mempesona yang ditawarkan Indonesia.
               </p>
             </div>
             <div className="col-span-12 md:col-span-6">
               <div className="grid grid-cols-3 gap-x-8">
                 <div className="flex flex-col gap-y-4">
-                  <h2 className="font-semibold">Company</h2>
-                  <p className="text-sm font-medium">About</p>
-                  <p className="text-sm font-medium">Help</p>
-                  <p className="text-sm font-medium">FAQ</p>
+                  <h2 className="font-semibold">Links</h2>
+                  <p className="text-sm font-medium">Budaya</p>
+                  <p className="text-sm font-medium">Cerita</p>
+                  <p className="text-sm font-medium">Events</p>
                 </div>
                 <div className="flex flex-col gap-y-4">
                   <h2 className="font-semibold">Contact</h2>
-                  <p className="text-sm font-medium">(+62) 822221</p>
-                  <p className="text-sm font-medium">ruangbudaya@gmail.com</p>
+                  <p className="text-sm font-medium">+628167947</p>
+                  <p className="text-sm font-medium">rb@gmail.com</p>
                 </div>
                 <div className="flex flex-col gap-y-4">
                   <h2 className="font-semibold">Others</h2>
@@ -36,7 +36,7 @@ const Footer = () => {
               <h2 className="font-semibold">Socials</h2>
               <p className="text-sm font-medium">Instagram</p>
               <p className="text-sm font-medium">Twitter</p>
-              <p className="text-sm font-medium">Whatsapp</p>
+              <p className="text-sm font-medium">Tiktok</p>
             </div>
           </div>
         </div>
